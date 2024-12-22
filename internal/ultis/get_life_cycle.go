@@ -1,6 +1,6 @@
 package ultis
 
-import "github.com/tommitoan/bazica/model"
+import "github.com/phawitb/bazi-go/model"
 
 func GetLifeCycleFromFourPillar(pillars *model.FourPillars) *model.FourPillars {
 	dayValue := pillars.DayPillar.HeavenlyStem.Value

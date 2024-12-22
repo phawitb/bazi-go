@@ -3,7 +3,7 @@ package luckpillars
 import (
 	"encoding/json"
 	"fmt"
-	"github.com/tommitoan/bazica/model"
+	"github.com/phawitb/bazi-go/model"
 	"reflect"
 	"testing"
 	"time"

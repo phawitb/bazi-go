@@ -2,7 +2,7 @@ package bazica
 
 import (
 	"fmt"
-	"github.com/tommitoan/bazica/model"
+	"github.com/phawitb/bazi-go/model"
 	"testing"
 	"time"
 )

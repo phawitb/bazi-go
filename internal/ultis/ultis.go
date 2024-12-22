@@ -1,6 +1,6 @@
 package ultis
 
-import "github.com/tommitoan/bazica/model"
+import "github.com/phawitb/bazi-go/model"
 
 // CalculateHeavenlyStem convert value to Heavenly Stem
 func CalculateHeavenlyStem(num int) model.HeavenlyStem {

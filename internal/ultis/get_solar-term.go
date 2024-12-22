@@ -4,7 +4,7 @@ import (
 	"encoding/json"
 	"errors"
 	"fmt"
-	"github.com/tommitoan/bazica/model"
+	"github.com/phawitb/bazi-go/model"
 	"log/slog"
 	"os"
 	"slices"

@@ -2,8 +2,8 @@ package fourpillars
 
 import (
 	"encoding/json"
-	"github.com/tommitoan/bazica/internal/ultis"
-	"github.com/tommitoan/bazica/model"
+	"github.com/phawitb/bazi-go/internal/ultis"
+	"github.com/phawitb/bazi-go/model"
 	"log/slog"
 	"strings"
 	"time"

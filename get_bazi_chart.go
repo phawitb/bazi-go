@@ -1,10 +1,10 @@
 package bazica
 
 import (
-	"github.com/tommitoan/bazica/internal/fourpillars"
-	"github.com/tommitoan/bazica/internal/luckpillars"
-	"github.com/tommitoan/bazica/internal/ultis"
-	"github.com/tommitoan/bazica/model"
+	"github.com/phawitb/bazi-go/internal/fourpillars"
+	"github.com/phawitb/bazi-go/internal/luckpillars"
+	"github.com/phawitb/bazi-go/internal/ultis"
+	"github.com/phawitb/bazi-go/model"
 	"time"
 )
 
